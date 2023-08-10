@@ -1,6 +1,6 @@
 {
-	"author": "Jeremy Sabina",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jeremy Sabina",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
